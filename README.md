@@ -13,53 +13,8 @@
 
 ---
 
+
 ## 💼 What I Did in Ewha
-
-
-<div style="display: flex; flex-direction: column; align-items: flex-start; font-family: Arial, sans-serif; font-size: 14px; line-height: 1.5;">
-    <div style="border-left: 2px solid #6EC1E4; padding-left: 10px; margin-bottom: 20px;">
-        <div style="display: flex; align-items: center;">
-            <span style="background-color: #6EC1E4; color: white; border-radius: 50%; padding: 5px 10px; margin-right: 10px;">ALSA Korea</span>
-            <span>2019.03 ~ 2020.08</span>
-        </div>
-        <div style="margin-left: 40px;">🏆 CEDA 토론 최우수상</div>
-    </div>
-
-    <div style="border-left: 2px solid #6EC1E4; padding-left: 10px; margin-bottom: 20px;">
-        <div style="display: flex; align-items: center;">
-            <span style="background-color: #6EC1E4; color: white; border-radius: 50%; padding: 5px 10px; margin-right: 10px;">이대학보</span>
-            <span>2020.03 ~ 2021.06</span>
-        </div>
-        <div style="margin-left: 40px;">🏆 2020 기사 콘테스트 대상</div>
-        <div style="margin-left: 40px;">🏆 2021 기사 콘테스트 대상</div>
-    </div>
-
-    <div style="border-left: 2px solid #6EC1E4; padding-left: 10px; margin-bottom: 20px;">
-        <div style="display: flex; align-items: center;">
-            <span style="background-color: #6EC1E4; color: white; border-radius: 50%; padding: 5px 10px; margin-right: 10px;">EIA</span>
-            <span>2021.09 ~ 2022.09</span>
-        </div>
-        <div style="margin-left: 40px;">🏆 개인 베스트 리서치상</div>
-    </div>
-
-    <div style="border-left: 2px solid #6EC1E4; padding-left: 10px; margin-bottom: 20px;">
-        <div style="display: flex; align-items: center;">
-            <span style="background-color: #6EC1E4; color: white; border-radius: 50%; padding: 5px 10px; margin-right: 10px;">Exchange Program</span>
-            <span>2022.09 ~ 2023.02</span>
-        </div>
-    </div>
-
-    <div style="border-left: 2px solid #6EC1E4; padding-left: 10px;">
-        <div style="display: flex; align-items: center;">
-            <span style="background-color: #6EC1E4; color: white; border-radius: 50%; padding: 5px 10px; margin-right: 10px;">ESAA</span>
-            <span>2023.09 ~ 2024.08</span>
-        </div>
-        <div style="margin-left: 40px;">🏆 우수학회원상</div>
-    </div>
-</div>
-
-
-
 
 ### 1. **[ALSA KOREA](http://www.alsakorea.com/default/m1/s1.php?m=1&sm=10) (Asian Law Students' Association)**
 - **Period:** March 2019 - August 2020
@@ -89,4 +44,3 @@
   - 🏆 **1학기 우수학회원상**
   - 🏆 **2학기 우수학회원상**
 
-  
