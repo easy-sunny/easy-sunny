@@ -43,7 +43,7 @@
 - **Location:** Mannheim, Germany
 - **Role:** Exchange Student
 
-### 5. **ESAA (Ewha Statistical Analysis Association)**
+### 5. **[ESAA (Ewha Statistical Analysis Association)](https://cafe.naver.com/esaa2019)**
 - **Period:** Sep 2023 - Aug 2024
 - **Repository:** [ESAA_9th](https://github.com/easy-sunny/ESAA_9th)
 - **Achievements:**
