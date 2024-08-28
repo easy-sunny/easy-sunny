@@ -53,7 +53,7 @@
 ### 6. **Yonsei University Graduate School of Public Health Research Assistant**
 - **Period:** Jan 2024 - Feb 2024
 - **Achievements:**
-  - 📜 **[보건정보통계학회 논문 포스터 제출](https://www.koshis.or.kr) 에 논문 포스터 제출**
+  - 📜 **[보건정보통계학회](https://www.koshis.or.kr) 에 논문 포스터 제출**
 
 </details>
 
